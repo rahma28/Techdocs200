@@ -1,2 +1,2 @@
 # moondocs200
-Technical writing stuff - user documentation - product docs, user guides, 
+Technical writing stuff including user documentation, product docs, and user guides
